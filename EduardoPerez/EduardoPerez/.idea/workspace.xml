@@ -1,0 +1,974 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="EduardoPerez:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0d8ed75c-b564-4dc6-a2ca-4aac13c32bc3" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/EduardoPerez$App.ic" NAME="App Coverage Results" MODIFIED="1540527813283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.main.java.edito.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/EduardoPerez$TestTresEnRayaI.ic" NAME="TestTresEnRayaI Coverage Results" MODIFIED="1540408916297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.main.java.edito.logicadelnegocio.juego.testintegracion.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/EduardoPerez$App__1_.ic" NAME="App (1) Coverage Results" MODIFIED="1541062008980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>tresenraya.main.java.edito.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1765682886">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.54" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="167" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="167" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="24" />
+          <entry key="java" value="9424" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="9424" />
+          <entry key="PLAIN_TEXT" value="24" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="517475824">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="133" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="133" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="151" />
+          <entry key="java" value="4574" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="4574" />
+          <entry key="PLAIN_TEXT" value="151" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="EstrategiaJugador.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/tresenraya/main/java/edito/jugadores/estrategia/EstrategiaJugador.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+              <folding>
+                <element signature="e#603#604#0" expanded="true" />
+                <element signature="e#650#651#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Notificador.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/tresenraya/main/java/edito/vistanegocio/contenedores/windows/dialogos/Notificador.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="331">
+              <caret line="41" column="19" lean-forward="true" selection-start-line="41" selection-start-column="19" selection-end-line="41" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EscuchadorMenu.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/tresenraya/main/java/edito/vistanegocio/listeners/EscuchadorMenu.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="348">
+              <caret line="79" lean-forward="true" selection-start-line="79" selection-end-line="79" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Jugador.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/tresenraya/main/java/edito/jugadores/Jugador.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1183#1184#0" expanded="true" />
+                <element signature="e#1221#1222#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="App.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/tresenraya/main/java/edito/App.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EscuchadorTableroGui2.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/tresenraya/main/java/edito/vistanegocio/listeners/EscuchadorTableroGui2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="JUnit4 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>casill</find>
+      <find>System</find>
+      <find>Syste</find>
+      <find>Car</find>
+      <find>sys</find>
+      <find>Sys</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/main/java/edito/logicadelnegocio/jugadores/estrategia/CopiarArchivo.java" />
+        <option value="$PROJECT_DIR$/src/com/main/java/edito/vistanegocio/listeners/ControladorVista3.java" />
+        <option value="$PROJECT_DIR$/src/com/main/java/edito/logicadelnegocio/juego/reglas/EstrategiaGanadora.java" />
+        <option value="$PROJECT_DIR$/test/com/main/java/edito/logicadelnegocio/juego/testintegracion/TestTresEnRayaI.java" />
+        <option value="$PROJECT_DIR$/src/com/main/java/edito/vistanegocio/canvas/Figura.java" />
+        <option value="$PROJECT_DIR$/src/com/main/java/edito/vistanegocio/contenedores/panels/PanelTablero2.java" />
+        <option value="$PROJECT_DIR$/src/com/main/java/edito/logicadelnegocio/juego/reglas/ReglasTresEnRaya.java" />
+        <option value="$PROJECT_DIR$/src/com/main/java/edito/logicadelnegocio/jugadores/estrategia/Estrategia.java" />
+        <option value="$PROJECT_DIR$/src/com/main/java/edito/vistanegocio/contenedores/windows/frame/TresEnRayaGui2.java" />
+        <option value="$PROJECT_DIR$/src/com/main/java/edito/vistanegocio/contenedores/windows/frame/TresEnRayaGui1.java" />
+        <option value="$PROJECT_DIR$/src/com/main/java/edito/vistanegocio/contenedores/panels/PanelEntrada3.java" />
+        <option value="$PROJECT_DIR$/src/com/main/java/edito/persistencia/acceso/ObjetoStream.java" />
+        <option value="$PROJECT_DIR$/src/com/main/java/edito/persistencia/modeloserializable/ListaJugadores.java" />
+        <option value="$PROJECT_DIR$/src/com/main/java/edito/logicadelnegocio/juego/TresEnRaya.java" />
+        <option value="$PROJECT_DIR$/src/com/main/java/edito/vistanegocio/contenedores/windows/frame/CargaEstrategia.java" />
+        <option value="$PROJECT_DIR$/src/com/main/java/edito/vistanegocio/listeners/EscuchadorMenu.java" />
+        <option value="$PROJECT_DIR$/src/com/main/java/edito/vistanegocio/listeners/EscuchadorVista3.java" />
+        <option value="$PROJECT_DIR$/src/com/main/java/edito/vistanegocio/contenedores/panels/CargaEstrategia.java" />
+        <option value="$PROJECT_DIR$/src/com/main/java/edito/vistanegocio/contenedores/panels/ContenedorEstrategia.java" />
+        <option value="$PROJECT_DIR$/src/com/main/java/edito/persistencia/acceso/Conexion.java" />
+        <option value="$PROJECT_DIR$/src/com/main/java/edito/persistencia/modeloserializable/ModeloPuestoJugador.java" />
+        <option value="$PROJECT_DIR$/src/com/main/java/edito/persistencia/modeloserializable/ModeloListaJugadores.java" />
+        <option value="$PROJECT_DIR$/src/com/main/java/edito/persistencia/modeloserializable/ModeloSerializable.java" />
+        <option value="$PROJECT_DIR$/src/com/main/java/edito/logicadelnegocio/jugadores/estrategia/EstrategiaI.java" />
+        <option value="$PROJECT_DIR$/src/com/main/java/edito/logicadelnegocio/jugadores/estrategia/ConstructorEstrategia.java" />
+        <option value="$PROJECT_DIR$/src/com/main/java/edito/logicadelnegocio/jugadores/estrategia/ReflexionEstrategica.java" />
+        <option value="$PROJECT_DIR$/test/com/main/java/edito/logicadelnegocio/juego/testunitario/TresEnRayaITest.java" />
+        <option value="$PROJECT_DIR$/src/com/main/java/edito/logicadelnegocio/juego/TresEnRayaI.java" />
+        <option value="$PROJECT_DIR$/src/com/main/java/edito/vistanegocio/contenedores/windows/dialogos/Notificador.java" />
+        <option value="$PROJECT_DIR$/src/com/main/java/edito/vistanegocio/contenedores/windows/frame/TresEnRayaGui3.java" />
+        <option value="$PROJECT_DIR$/src/Posiii.java" />
+        <option value="$PROJECT_DIR$/src/Posicion.java" />
+        <option value="$PROJECT_DIR$/src/com/main/java/edito/logicadelnegocio/jugadores/Jugador.java" />
+        <option value="$PROJECT_DIR$/src/tresenraya/Posicion.java" />
+        <option value="$PROJECT_DIR$/src/tresenraya/main/java/edito/logicadelnegocio/juego/reglas/ReglasTresEnRaya.java" />
+        <option value="$PROJECT_DIR$/src/tresenraya/main/java/edito/vistanegocio/listeners/EscuchadorTableroGui2.java" />
+        <option value="$PROJECT_DIR$/src/tresenraya/main/java/edito/logicadelnegocio/tablerojuego/TableroTresEnRaya.java" />
+        <option value="$PROJECT_DIR$/src/Algoritmo/src/estrategia/Estrategia.java" />
+        <option value="$PROJECT_DIR$/src/Algoritmo/src/TresEnRaya.java" />
+        <option value="$PROJECT_DIR$/src/Algoritmo/src/estrategia/MinimaxTorsido.java" />
+        <option value="$PROJECT_DIR$/src/Algoritmo/src/Verticalisimo.java" />
+        <option value="$PROJECT_DIR$/src/tresenraya/main/java/edito/logicadelnegocio/jugadores/estrategia/ReflexionEstrategica.java" />
+        <option value="$PROJECT_DIR$/src/tresenraya/main/java/edito/logicadelnegocio/jugadores/estrategia/EstrategiaI.java" />
+        <option value="$PROJECT_DIR$/src/tresenraya/main/java/edito/logicadelnegocio/jugadores/estrategia/Estrategia.java" />
+        <option value="$PROJECT_DIR$/src/tresenraya/main/java/edito/logicadelnegocio/jugadores/Jugador.java" />
+        <option value="$PROJECT_DIR$/src/tresenraya/main/java/edito/jugadores/estrategia/IEstrategia.java" />
+        <option value="$PROJECT_DIR$/src/tresenraya/main/java/edito/jugadores/estrategia/EstrategiaJugador.java" />
+        <option value="$PROJECT_DIR$/src/tresenraya/main/java/edito/jugadores/estrategia/ReflexionEstrategica.java" />
+        <option value="$PROJECT_DIR$/src/tresenraya/main/java/edito/jugadores/Jugador.java" />
+        <option value="$PROJECT_DIR$/src/tresenraya/main/java/edito/vistanegocio/contenedores/windows/frame/TresEnRayaGui3.java" />
+        <option value="$PROJECT_DIR$/src/tresenraya/main/java/edito/vistanegocio/listeners/EscuchadorMenu.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="EduardoPerez" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EduardoPerez" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EduardoPerez" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EduardoPerez" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EduardoPerez" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EduardoPerez" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EduardoPerez" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EduardoPerez" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EduardoPerez" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EduardoPerez" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="tresenraya" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EduardoPerez" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EduardoPerez" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="tresenraya" type="462c0819:PsiDirectoryNode" />
+              <item name="edito" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EduardoPerez" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541066706040" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Estrategia" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.main.java.edito.logicadelnegocio.juego" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="com.main.java.edito.persistencia.modeloSerializable" />
+      <recent name="com.main.java.edito.persistencia" />
+      <recent name="com.main.java.edito.logicadelnegocio.juego.testintegracion" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com" />
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\umss\arquitectura de software\versionNueva\EduardoPerez" />
+      <recent name="F:\umss\arquitectura de software\versionNueva\EduardoPerez\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.App (1)">
+    <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tresenraya.main.java.edito.App" />
+      <module name="EduardoPerez" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tresenraya.main.java.edito.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.main.java.edito.App" />
+      <module name="EduardoPerez" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.main.java.edito.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="All in EduardoPerez" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="EduardoPerez" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="TestTresEnRayaI.testEmpate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="EduardoPerez" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.main.java.edito.logicadelnegocio.juego.testintegracion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.main.java.edito.logicadelnegocio.juego.testintegracion" />
+      <option name="MAIN_CLASS_NAME" value="com.main.java.edito.logicadelnegocio.juego.testintegracion.TestTresEnRayaI" />
+      <option name="METHOD_NAME" value="testEmpate" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="TestTresEnRayaI.testOEsGanador" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="EduardoPerez" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.main.java.edito.logicadelnegocio.juego.testintegracion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.main.java.edito.logicadelnegocio.juego.testintegracion" />
+      <option name="MAIN_CLASS_NAME" value="com.main.java.edito.logicadelnegocio.juego.testintegracion.TestTresEnRayaI" />
+      <option name="METHOD_NAME" value="testOEsGanador" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.TestTresEnRayaI.testOEsGanador" />
+      <item itemvalue="JUnit.TestTresEnRayaI.testEmpate" />
+      <item itemvalue="Application.App" />
+      <item itemvalue="JUnit.All in EduardoPerez" />
+      <item itemvalue="Application.App (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App (1)" />
+        <item itemvalue="Application.App" />
+        <item itemvalue="JUnit.All in EduardoPerez" />
+        <item itemvalue="JUnit.TestTresEnRayaI.testOEsGanador" />
+        <item itemvalue="JUnit.TestTresEnRayaI.testEmpate" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d8ed75c-b564-4dc6-a2ca-4aac13c32bc3" name="Default Changelist" comment="" />
+      <created>1540261062923</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540261062923</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestTresEnRayaI - 2018.10.25 at 22h 19m 08s.xml">
+      <configuration name="TestTresEnRayaI" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestTresEnRayaI - 2018.10.25 at 22h 19m 34s.xml">
+      <configuration name="TestTresEnRayaI" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestTresEnRayaI - 2018.10.25 at 22h 19m 53s.xml">
+      <configuration name="TestTresEnRayaI" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestTresEnRayaI - 2018.10.25 at 22h 20m 16s.xml">
+      <configuration name="TestTresEnRayaI" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestTresEnRayaI - 2018.10.25 at 22h 28m 11s.xml">
+      <configuration name="TestTresEnRayaI" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestTresEnRayaI - 2018.10.25 at 22h 29m 46s.xml">
+      <configuration name="TestTresEnRayaI" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestTresEnRayaI - 2018.10.25 at 22h 30m 42s.xml">
+      <configuration name="TestTresEnRayaI" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_EduardoPerez - 2018.10.26 at 15h 08m 23s.xml">
+      <configuration name="All in EduardoPerez" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_EduardoPerez - 2018.10.26 at 15h 10m 00s.xml">
+      <configuration name="All in EduardoPerez" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_EduardoPerez - 2018.10.26 at 15h 10m 13s.xml">
+      <configuration name="All in EduardoPerez" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="bottom" id="Messages" order="2" sideWeight="0.4969743" weight="0.32786885" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info id="Image Layers" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.39107412" side_tool="true" visible="true" weight="0.3196046" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.32980332" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.6089259" weight="0.3196046" />
+      <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="0" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.3207262" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info id="UI Designer" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="bottom" id="Debug" order="7" sideWeight="0.7503782" weight="0.13442624" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.32980332" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="5" sideWeight="0.49848714" weight="0.32786885" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="file" />
+        <watch expression="claseExterna" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/tresenraya/main/java/edito/vistanegocio/contenedores/windows/frame/TresEnRayaGui.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/main/java/edito/logicadelnegocio/jugadores/estrategia/CopiarArchivo.java" />
+    <entry file="file://$PROJECT_DIR$/src/tresenraya/main/java/edito/vistanegocio/contenedores/panels/ContenidoTableroGui1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="24" column="43" lean-forward="true" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tresenraya/main/java/edito/vistanegocio/listeners/Escuchador.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tresenraya/main/java/edito/logicadelnegocio/juego/reglas/EstrategiaTresEnRaya.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/com/main/java/edito/logicadelnegocio/juego/testintegracion/TestTresEnRayaI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="91" lean-forward="true" selection-start-line="91" selection-end-line="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tresenraya/main/java/edito/vistanegocio/contenedores/windows/dialogos/NotificadorI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tresenraya/main/java/edito/logicadelnegocio/juego/TresEnRaya.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tresenraya/main/java/edito/vistanegocio/contenedores/windows/frame/TablaResultadosGui.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="66" column="30" lean-forward="true" selection-start-line="66" selection-start-column="30" selection-end-line="66" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/lang/Class.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/lang/reflect/Field.java" />
+    <entry file="file://$PROJECT_DIR$/src/tresenraya/main/java/edito/logicadelnegocio/elementos/Casilla.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="14" column="11" lean-forward="true" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tresenraya/main/java/edito/vistanegocio/contenedores/panels/ContenidoTableroGui2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="32" column="3" lean-forward="true" selection-start-line="32" selection-start-column="3" selection-end-line="32" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tresenraya/main/java/edito/vistanegocio/contenedores/windows/frame/TresEnRayaGui2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="107" column="52" selection-start-line="107" selection-start-column="52" selection-end-line="107" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#crearApuntadoresLog#0;class#TresEnRayaGui2#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tresenraya/main/java/edito/vistanegocio/contenedores/panels/ContenidoEntradaGui3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-212">
+          <caret line="24" column="25" lean-forward="true" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tresenraya/main/java/edito/vistanegocio/contenedores/windows/frame/TresEnRayaGui1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="63" column="11" lean-forward="true" selection-start-line="63" selection-start-column="11" selection-end-line="63" selection-end-column="11" />
+          <folding>
+            <element signature="method#crearMenu#0;class#TresEnRayaGui1#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tresenraya/main/java/edito/logicadelnegocio/tablerojuego/Tablero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tresenraya/main/java/edito/vistanegocio/contenedores/panels/ContenidoEntradaGui2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="22" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tresenraya/main/java/edito/vistanegocio/listeners/EscuchadorTableroGui1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tresenraya/main/java/edito/vistanegocio/listeners/EscuchadorGui3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#427#428#0" expanded="true" />
+            <element signature="e#467#468#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tresenraya/main/java/edito/persistencia/modeloserializable/ModeloSerializable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/com/main/java/edito/logicadelnegocio/juego/testunitario/TresEnRayaITest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tresenraya/main/java/edito/vistanegocio/botones/Boton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="3" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tresenraya/main/java/edito/vistanegocio/canvas/Figura.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="30" column="15" selection-start-line="30" selection-start-column="15" selection-end-line="30" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tresenraya/main/java/edito/persistencia/modeloserializable/ModeloPuestoJugador.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tresenraya/main/java/edito/persistencia/modeloserializable/ModeloListaJugadores.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tresenraya/main/java/edito/persistencia/acceso/Conexion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tresenraya/main/java/edito/vistanegocio/contenedores/panels/ContenedorEstrategia.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="26" column="3" selection-start-line="26" selection-start-column="3" selection-end-line="26" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tresenraya/main/java/edito/logicadelnegocio/juego/TresEnRayaI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tresenraya/main/java/edito/vistanegocio/menus/MenuTresEnRaya.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Position.java" />
+    <entry file="file://$PROJECT_DIR$/src/Posiii.java" />
+    <entry file="file://$PROJECT_DIR$/src/tresenraya/Posicion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tresenraya/main/java/edito/logicadelnegocio/juego/reglas/ReglasTresEnRaya.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="57" column="17" selection-start-line="57" selection-start-column="17" selection-end-line="57" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tresenraya/main/java/edito/logicadelnegocio/tablerojuego/TableroTresEnRaya.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="26" column="35" lean-forward="true" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algoritmo/src/App.java" />
+    <entry file="file://$PROJECT_DIR$/src/Algoritmo/src/Juego.java" />
+    <entry file="file://$PROJECT_DIR$/src/Algoritmo/src/TresEnRaya.java" />
+    <entry file="file://$PROJECT_DIR$/src/Algoritmo/src/Verticalisimo.java" />
+    <entry file="file://$PROJECT_DIR$/src/Algoritmo/src/estrategia/Estrategia.java" />
+    <entry file="file://$PROJECT_DIR$/src/Algoritmo/src/estrategia/MinimaxTorsido.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/lang/ClassLoader.java" />
+    <entry file="file://$PROJECT_DIR$/src/tresenraya/main/java/edito/jugadores/estrategia/IEstrategia.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tresenraya/main/java/edito/jugadores/estrategia/ReflexionEstrategica.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="34" column="49" lean-forward="true" selection-start-line="34" selection-start-column="49" selection-end-line="34" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tresenraya/main/java/edito/vistanegocio/contenedores/windows/frame/TresEnRayaGui3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="134" column="40" selection-start-line="134" selection-start-column="40" selection-end-line="134" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#crearMenuJuego#0;class#TresEnRayaGui3#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tresenraya/main/java/edito/jugadores/Jugador.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1183#1184#0" expanded="true" />
+            <element signature="e#1221#1222#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tresenraya/main/java/edito/jugadores/estrategia/EstrategiaJugador.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="e#603#604#0" expanded="true" />
+            <element signature="e#650#651#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tresenraya/main/java/edito/vistanegocio/contenedores/windows/dialogos/Notificador.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="41" column="19" lean-forward="true" selection-start-line="41" selection-start-column="19" selection-end-line="41" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tresenraya/main/java/edito/vistanegocio/listeners/EscuchadorMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="79" lean-forward="true" selection-start-line="79" selection-end-line="79" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tresenraya/main/java/edito/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tresenraya/main/java/edito/vistanegocio/listeners/EscuchadorTableroGui2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>EduardoPerez:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>EduardoPerez</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
